@@ -2,9 +2,10 @@ body {
     font-family: Georgia, Times, serif;
     width: 350px;
 }
-p{
-    color: #ff3f3e;}
-form#one{
+p {
+    color: #ff3f3e;
+}
+form#one {
     float: right;
     text-align: center;
     width: 90px;
